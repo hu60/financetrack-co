@@ -1,0 +1,27 @@
+export const CATEGORY_ICONS: Record<string, string> = {
+  // Gastos
+  Arriendo: '🏠',
+  Mercado: '🛒',
+  Transporte: '🚌',
+  Salud: '❤️',
+  Educación: '📚',
+  Entretenimiento: '🎬',
+  Restaurantes: '🍽️',
+  Servicios: '💡',
+  Ropa: '👕',
+  Deudas: '💳',
+  Ahorro: '🐷',
+  Mascota: '🐾',
+  Gym: '💪',
+  Familia: '👨‍👩‍👧',
+  Tecnología: '💻',
+  Otros: '📦',
+  // Ingresos
+  Salario: '💼',
+  Freelance: '🖥️',
+  Quincena: '📅',
+  Negocio: '🏢',
+  Inversión: '📈',
+  Regalo: '🎁',
+  'Otros ingresos': '💰',
+}
