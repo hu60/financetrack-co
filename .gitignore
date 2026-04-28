@@ -16,7 +16,7 @@ dist-ssr
 .env
 .env.local
 .env.*.local
-.env.production
+# .env.production se commitea con claves PÚBLICAS de Supabase (anon key, no service key)
 
 # PWA generated files
 sw.js
