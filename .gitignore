@@ -22,6 +22,9 @@ dist-ssr
 sw.js
 workbox-*.js
 
+# Wrangler
+.wrangler/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
